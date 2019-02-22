@@ -1,0 +1,4 @@
+
+From AOSP 5.x /system/core/libzip
+
+NOTE: libzip changed to libziparchive in 6.x, so you have to go earlier.
